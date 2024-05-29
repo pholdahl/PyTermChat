@@ -23,6 +23,12 @@ presence in different chat groups. This project was originally based on a mandat
 in [Networking and Cloud computing](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2410/2022/H%C3%98ST), but it has been significantly extended to include additional
 features like a Rock-Paper-Scissors game.
 
+### Extensive Commenting
+
+The code contains extensive comments, with almost every line commented.
+This level of detail was required by our lecturer for a course assignment to
+ensure clarity and thorough documentation of the code's functionality.
+
 ## Features
 
 - **Multi-threaded Server:** Handles multiple clients simultaneously.
