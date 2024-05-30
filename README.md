@@ -121,7 +121,7 @@ To start a game of Rock-Paper-Scissors with another user, use the /rps [username
 
 ## Contributors
 
-- This project was developed solely by me [Pholdahl](https://github.com/pholdahl).
+- This project was developed solely by me [pholdahl](https://github.com/pholdahl).
 
 ## License
 
